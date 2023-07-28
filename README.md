@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-MediCareApp é um aplicativo de clínica médica para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
+MediCareApp é um aplicativo de clínica médica para gestão de consultas. O aplicativo possui funcionalidades que permitem o cadastro de médicos e de pacientes, e também o agendamento e o cancelamento de consultas.
 
 ---
 
